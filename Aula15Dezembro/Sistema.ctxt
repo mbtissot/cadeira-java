@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Sistema
+comment0.text=\n\ Write\ a\ description\ of\ class\ Sistema\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=cursos\ curso
+comment2.target=Curso[]\ addCurso(Curso[],\ Curso)
+comment3.params=disciplinas\ disciplina
+comment3.target=Disciplina[]\ addDisc(Disciplina[],\ Disciplina)
+comment4.params=cursos
+comment4.target=void\ listarCursos(Curso[])
+comment5.params=
+comment5.target=void\ erroIndex()
+numComments=6

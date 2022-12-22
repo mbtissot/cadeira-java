@@ -1,0 +1,82 @@
+(Criando os cursos de fisica e matematica)
+a
+Fisica
+a
+Matematica
+(Criando as cadeira Calculo1 e Calculo2)
+b
+Calculo1
+Mat0001
+4
+b
+Calculo2
+Mat0002
+4
+(Adicionando Calculo1 como prerequisito de Calculo2)
+c
+1
+0
+-1
+(Criando oferta de Calculo 1 e 2 para fisica e matematica)
+d
+0
+0
+1
+Obrigatoria
+d
+0
+1
+2
+Obrigatoria
+d
+1
+0
+1
+Obrigatoria
+d
+1
+1
+2
+Obrigatoria
+(Listando cursos)
+f
+(Mostrando os curriculos dos cursos)
+g
+0
+g
+1
+(Criando o curso de fisica 1)
+b
+Fisica1
+Fis0001
+6
+(Criando oferta de Fisica 1 como eletiva do 2 semestre da matematica)
+d
+1
+2
+2
+Eletiva
+(Mostrando o curriculo da matematica)
+g
+1
+(Mostrando as ofertas de Calculo1)
+h
+0
+(Mostrando as ofertas de Calculo 2)
+h
+1
+(Mostrando as ofertas de Fisica 1)
+h
+2
+(Excluindo a oferta de fisica 1 da matematica)
+e
+1
+2
+(Mostrando o curriculo da matematica novamente, agora sem fisica1)
+g
+1
+(Mostrando as ofertas de Fisica 1)
+h
+2
+(Saindo)
+q
